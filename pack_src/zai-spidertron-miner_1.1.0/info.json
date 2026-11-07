@@ -1,0 +1,14 @@
+{
+  "name": "zai-spidertron-miner",
+  "version": "1.1.0",
+  "factorio_version": "2.1",
+  "title": "Паукотрон-рудокоп",
+  "title_original": "Spidertron-Miner",
+  "author": "zai-pack",
+  "contact": "",
+  "homepage": "https://github.com/eedsever-netizen/zai-modpack",
+  "description": "v1.1.0: Самодельный мод добычи для Factorio 2.1. Три уровня (T1/T2/T3). Ручной режим (рамка выделения) + автоматический (поиск ближайшего ресурса по всей поверхности). Chest-link с любым инвентарём (сундук/машина/вагон/реактор). Самооборона: T2 имеет machine-gun + tank-cannon, T3 — + rocket-launcher. Equipment grid 12×14 для shield/laser/speed equipment. Compact GUI через choose-elem-button.",
+  "dependencies": [
+    "base >= 2.1.0"
+  ]
+}

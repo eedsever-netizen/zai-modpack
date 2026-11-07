@@ -1,23 +1,22 @@
 --[[
-  cars.lua — 3 машины паукотрон-рудокоп.
+  cars.lua — 3 машины паукотрон-рудокоп v1.1.0.
 
-  T1: доступна на старте. Burner (любое горючее). Тёмно-ржавая обгоревшая
-      разбитая машина. Маленькая сетка оборудования.
-  T2: технология после красной ленты, стали и автоматизации. Burner
-      повышенной эффективности. Старая машина с полувыцветшей синей краской.
-  T3: технология после аккумулятора и стационарного аккумулятора.
-      В Factorio 2.1 car-прототип не принимает electric energy_source —
-      поэтому T3 реализован как burner с почти нулевыми emissions
-      (pollution=1), симулируя «электрическую» машину. Воронёная сталь.
+  Улучшения v1.1.0:
+  - T2/T3: добавлены guns для самообороны (tank cannon + machine gun)
+  - T3: equipment grid 12×14 поддерживает combat equipment (energy-shield,
+    personal-laser-defense) + generator equipment
+  - T1: burner, 1 fuel slot
+  - T2: burner, 2 fuel slots + improved weapons
+  - T3: burner, 4 fuel slots + heavy weapons + bigger grid
 
-  Спрайты: base car.png с tint-множителем для дифференциации уровней.
+  Спрайты: base car.png с tint-множителем.
 ]]
 
 local util = require("util")
 
-local TINT_T1 = { r = 0.42, g = 0.22, b = 0.12, a = 1.0 } -- тёмно-ржавый
-local TINT_T2 = { r = 0.35, g = 0.40, b = 0.55, a = 1.0 } -- полувыцветшая синяя
-local TINT_T3 = { r = 0.45, g = 0.50, b = 0.60, a = 1.0 } -- воронёная сталь
+local TINT_T1 = { r = 0.42, g = 0.22, b = 0.12, a = 1.0 }
+local TINT_T2 = { r = 0.35, g = 0.40, b = 0.55, a = 1.0 }
+local TINT_T3 = { r = 0.45, g = 0.50, b = 0.60, a = 1.0 }
 
 local function make_car(tier, opts)
   local base = data.raw["car"]["car"]
@@ -39,24 +38,29 @@ local function make_car(tier, opts)
   car.inventory_size = opts.inventory_size
   car.equipment_grid = opts.grid
 
-  -- Энергия: в Factorio 2.1 только energy_source = { type = "burner"|"void" }
-  if opts.energy == "burner" then
-    if base.energy_source then
-      car.energy_source = util.table.deepcopy(base.energy_source)
-      if opts.fuel_emissions and car.energy_source then
-        car.energy_source.emissions_per_minute = { pollution = opts.fuel_emissions }
-      end
-    else
-      car.energy_source = {
-        type = "burner",
-        fuel_categories = {"chemical"},
-        effectivity = 1,
-        fuel_inventory_size = 1,
-      }
+  -- Энергия: в Factorio 2.1 car принимает только burner или void
+  if base.energy_source then
+    car.energy_source = util.table.deepcopy(base.energy_source)
+    car.energy_source.fuel_inventory_size = opts.fuel_slots or 1
+    if opts.fuel_emissions then
+      car.energy_source.emissions_per_minute = { pollution = opts.fuel_emissions }
     end
+  else
+    car.energy_source = {
+      type = "burner",
+      fuel_categories = {"chemical"},
+      effectivity = 1,
+      fuel_inventory_size = opts.fuel_slots or 1,
+    }
   end
 
-  -- tint к спрайтам
+  -- Самооборона: weapons (guns)
+  -- Base car имеет default gun (pistol). T2/T3 — добавляем tank cannon + heavy weapons.
+  if opts.guns then
+    car.guns = opts.guns
+  end
+
+  -- tint
   local function apply_tint(sprite_set)
     if not sprite_set then return end
     local function tint_layer(layer)
@@ -81,20 +85,29 @@ local function make_car(tier, opts)
 end
 
 local cars = {
+  -- T1: starter, simple burner, basic pistol (как у base car)
   make_car("t1", {
     tint = TINT_T1, health = 150, weight = 600, braking = 1500,
     friction = 0.018, effectivity = 0.45, inventory_size = 30,
     grid = "zai-stm-grid-t1", energy = "burner", fuel_emissions = 8,
+    fuel_slots = 1,
+    -- guns: inherited from base car (pistol)
   }),
+  -- T2: improved burner, 2 fuel slots, vehicle-machine-gun + tank-cannon
   make_car("t2", {
     tint = TINT_T2, health = 350, weight = 900, braking = 2800,
     friction = 0.015, effectivity = 0.65, inventory_size = 50,
     grid = "zai-stm-grid-t2", energy = "burner", fuel_emissions = 5,
+    fuel_slots = 2,
+    guns = {"vehicle-machine-gun", "tank-cannon"},
   }),
+  -- T3: low-emissions burner, 4 fuel slots, heavy weapons + big grid
   make_car("t3", {
     tint = TINT_T3, health = 600, weight = 1200, braking = 4500,
     friction = 0.012, effectivity = 0.85, inventory_size = 80,
     grid = "zai-stm-grid-t3", energy = "burner", fuel_emissions = 1,
+    fuel_slots = 4,
+    guns = {"vehicle-machine-gun", "tank-cannon", "rocket-launcher"},
   }),
 }
 
