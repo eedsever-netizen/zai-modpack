@@ -29,8 +29,9 @@ local TINT_T3 = { r = 0.45, g = 0.50, b = 0.60, a = 1.0 }
 local designator = {
   type = "selection-tool",
   name = "zai-stm-designator",
-  icon = "__base__/graphics/icons/shortcut-toolbar/bulk-unselect.png",
-  icon_size = 64,
+  -- bulk-unselect.png не существует в base 2.1.24; используем cut-x56.png (56x56)
+  icon = "__base__/graphics/icons/shortcut-toolbar/mip/cut-x56.png",
+  icon_size = 56,
   flags = { "only-in-cursor", "spawnable" },
   subgroup = "transport",
   order = "z[zai-stm]",
@@ -49,7 +50,7 @@ local designator = {
   always_include_tiles = true,
   show_in_library = false,
   sprite = {
-    filename = "__base__/graphics/icons/shortcut-toolbar/bulk-unselect.png",
+    filename = "__base__/graphics/icons/shortcut-toolbar/mip/cut-x56.png",
     priority = "extra-high-no-scale",
     size = 64,
   },

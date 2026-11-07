@@ -43,7 +43,7 @@ local function restore_string_icons()
       for name, proto in pairs(prototypes) do
         if is_angel(name) then
           if proto.icon == nil and (proto.icons == nil or #proto.icons == 0) then
-            proto.icon = "__core__/graphics/icons/technology/effect-efficacy.png"
+            proto.icon = "__base__/graphics/icons/iron-plate.png"
             proto.icon_size = 64
             fixed = fixed + 1
           end

@@ -24,7 +24,8 @@ data:extend({
   {
     type = "technology",
     name = "zai-stm-t3",
-    icon = "__base__/graphics/technology/electric-energy-accumulators.png",
+    -- ВНИМАНИЕ: в base 2.1.24 опечатка в имени файла — "acumulators" (одна 'c')
+    icon = "__base__/graphics/technology/electric-energy-acumulators.png",
     icon_size = 256,
     unit = {
       count = 50,
