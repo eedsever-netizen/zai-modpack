@@ -174,7 +174,8 @@ local function open_resource_picker(player, car)
 
   local state = get_or_create_miner_state(car)
   for _, name in ipairs(list) do
-    local proto = game.entity_prototypes[name]
+    -- Factorio 2.1: prototypes.entity[name] (раньше было game.entity_prototypes[name])
+    local proto = prototypes.entity[name]
     local label = (proto and proto.localised_name) or name
     local btn = scroll.add{
       type = "button", name = "zai-stm-res-" .. name,
