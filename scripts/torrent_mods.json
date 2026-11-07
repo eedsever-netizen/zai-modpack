@@ -1,0 +1,578 @@
+{
+  "Electronic_Locomotives": {
+    "filename": "Electronic_Locomotives_4.1.0.zip",
+    "name": "Electronic_Locomotives",
+    "size_bytes": 1123424,
+    "size_mb": 1.07,
+    "version": "4.1.0"
+  },
+  "InserterFuelLeech": {
+    "filename": "InserterFuelLeech_1.0.6.zip",
+    "name": "InserterFuelLeech",
+    "size_bytes": 96020,
+    "size_mb": 0.09,
+    "version": "1.0.6"
+  },
+  "NapusJaggedOres": {
+    "filename": "NapusJaggedOres_2.1.2.zip",
+    "name": "NapusJaggedOres",
+    "size_bytes": 2375702,
+    "size_mb": 2.27,
+    "version": "2.1.2"
+  },
+  "Omniterra": {
+    "excluded_reason": "Исключён из сборки: мод представляет собой объединение рудных наборов Bob's, Angel's и Omnimatter, но фактически работает нестабильно. Зависимости Omniterra проверены — на пакет не влияет.",
+    "filename": "Omniterra_0.2.0.zip",
+    "name": "Omniterra",
+    "size_bytes": 3160281,
+    "size_mb": 3.01,
+    "status": "excluded",
+    "version": "0.2.0"
+  },
+  "Peppermint_Mining": {
+    "filename": "Peppermint_Mining_2.3.2.zip",
+    "name": "Peppermint_Mining",
+    "size_bytes": 66949,
+    "size_mb": 0.06,
+    "version": "2.3.2"
+  },
+  "PlutoniumEnergy": {
+    "filename": "PlutoniumEnergy_1.9.2.zip",
+    "name": "PlutoniumEnergy",
+    "size_bytes": 2537905,
+    "size_mb": 2.42,
+    "version": "1.9.2"
+  },
+  "StatsGui": {
+    "filename": "StatsGui_1.7.0.zip",
+    "name": "StatsGui",
+    "size_bytes": 35698,
+    "size_mb": 0.03,
+    "version": "1.7.0"
+  },
+  "StatsGui-HandcraftTimer": {
+    "filename": "StatsGui-HandcraftTimer_0.2.0.zip",
+    "name": "StatsGui-HandcraftTimer",
+    "size_bytes": 8091,
+    "size_mb": 0.01,
+    "version": "0.2.0"
+  },
+  "StatsGui-MovementSpeed": {
+    "filename": "StatsGui-MovementSpeed_1.0.7.zip",
+    "name": "StatsGui-MovementSpeed",
+    "size_bytes": 29301,
+    "size_mb": 0.03,
+    "version": "1.0.7"
+  },
+  "TerrainEvolution2": {
+    "filename": "TerrainEvolution2_1.0.4.zip",
+    "name": "TerrainEvolution2",
+    "size_bytes": 65943,
+    "size_mb": 0.06,
+    "version": "1.0.4"
+  },
+  "angelsaddons-bots": {
+    "filename": "angelsaddons-bots_2.1.0.zip",
+    "name": "angelsaddons-bots",
+    "size_bytes": 5885250,
+    "size_mb": 5.61,
+    "version": "2.1.0"
+  },
+  "angelsaddons-cab": {
+    "filename": "angelsaddons-cab_2.1.0.zip",
+    "name": "angelsaddons-cab",
+    "size_bytes": 15004461,
+    "size_mb": 14.31,
+    "version": "2.1.0"
+  },
+  "angelsaddons-mobility": {
+    "filename": "angelsaddons-mobility_2.1.1.zip",
+    "name": "angelsaddons-mobility",
+    "size_bytes": 96927,
+    "size_mb": 0.09,
+    "version": "2.1.1"
+  },
+  "angelsaddons-mobility-graphics-crawler": {
+    "filename": "angelsaddons-mobility-graphics-crawler_2.1.0.zip",
+    "name": "angelsaddons-mobility-graphics-crawler",
+    "size_bytes": 205512134,
+    "size_mb": 195.99,
+    "version": "2.1.0"
+  },
+  "angelsaddons-mobility-graphics-petro": {
+    "filename": "angelsaddons-mobility-graphics-petro_2.1.0.zip",
+    "name": "angelsaddons-mobility-graphics-petro",
+    "size_bytes": 130321449,
+    "size_mb": 124.28,
+    "version": "2.1.0"
+  },
+  "angelsaddons-mobility-graphics-smelting": {
+    "filename": "angelsaddons-mobility-graphics-smelting_2.1.0.zip",
+    "name": "angelsaddons-mobility-graphics-smelting",
+    "size_bytes": 163926210,
+    "size_mb": 156.33,
+    "version": "2.1.0"
+  },
+  "angelsaddons-storage": {
+    "filename": "angelsaddons-storage_2.1.1.zip",
+    "name": "angelsaddons-storage",
+    "size_bytes": 2261697,
+    "size_mb": 2.16,
+    "version": "2.1.1"
+  },
+  "angelsbioprocessing": {
+    "filename": "angelsbioprocessing_2.1.2.zip",
+    "name": "angelsbioprocessing",
+    "size_bytes": 168063,
+    "size_mb": 0.16,
+    "version": "2.1.2"
+  },
+  "angelsbioprocessinggraphics": {
+    "filename": "angelsbioprocessinggraphics_2.1.0.zip",
+    "name": "angelsbioprocessinggraphics",
+    "size_bytes": 28984409,
+    "size_mb": 27.64,
+    "version": "2.1.0"
+  },
+  "angelsinfiniteores": {
+    "filename": "angelsinfiniteores_2.1.0.zip",
+    "name": "angelsinfiniteores",
+    "size_bytes": 25655389,
+    "size_mb": 24.47,
+    "version": "2.1.0"
+  },
+  "angelspetrochem": {
+    "filename": "angelspetrochem_2.1.3.zip",
+    "name": "angelspetrochem",
+    "size_bytes": 172071,
+    "size_mb": 0.16,
+    "version": "2.1.3"
+  },
+  "angelspetrochemgraphics": {
+    "filename": "angelspetrochemgraphics_2.1.0.zip",
+    "name": "angelspetrochemgraphics",
+    "size_bytes": 21022509,
+    "size_mb": 20.05,
+    "version": "2.1.0"
+  },
+  "angelsqualitysmelting": {
+    "filename": "angelsqualitysmelting_2.1.1.zip",
+    "name": "angelsqualitysmelting",
+    "size_bytes": 1702,
+    "size_mb": 0.0,
+    "version": "2.1.1"
+  },
+  "angelsrefining": {
+    "filename": "angelsrefining_2.1.3.zip",
+    "name": "angelsrefining",
+    "size_bytes": 524658,
+    "size_mb": 0.5,
+    "version": "2.1.3"
+  },
+  "angelsrefininggraphics": {
+    "filename": "angelsrefininggraphics_2.1.0.zip",
+    "name": "angelsrefininggraphics",
+    "size_bytes": 85675068,
+    "size_mb": 81.71,
+    "version": "2.1.0"
+  },
+  "angelssmelting": {
+    "filename": "angelssmelting_2.1.1.zip",
+    "name": "angelssmelting",
+    "size_bytes": 199483,
+    "size_mb": 0.19,
+    "version": "2.1.1"
+  },
+  "angelssmeltinggraphics": {
+    "filename": "angelssmeltinggraphics_2.1.1.zip",
+    "name": "angelssmeltinggraphics",
+    "size_bytes": 43984117,
+    "size_mb": 41.95,
+    "version": "2.1.1"
+  },
+  "auto-splitter-block": {
+    "filename": "auto-splitter-block_0.9.2.zip",
+    "name": "auto-splitter-block",
+    "size_bytes": 39670,
+    "size_mb": 0.04,
+    "version": "0.9.2"
+  },
+  "auto-train-manager": {
+    "filename": "auto-train-manager_0.6.0.zip",
+    "name": "auto-train-manager",
+    "size_bytes": 71764,
+    "size_mb": 0.07,
+    "version": "0.6.0"
+  },
+  "birdengineer": {
+    "filename": "birdengineer_1.0.2.zip",
+    "name": "birdengineer",
+    "size_bytes": 58754951,
+    "size_mb": 56.03,
+    "version": "1.0.2"
+  },
+  "bobassembly": {
+    "filename": "bobassembly_3.0.2.zip",
+    "name": "bobassembly",
+    "size_bytes": 29149750,
+    "size_mb": 27.8,
+    "version": "3.0.2"
+  },
+  "bobclasses": {
+    "filename": "bobclasses_3.0.2.zip",
+    "name": "bobclasses",
+    "size_bytes": 377281,
+    "size_mb": 0.36,
+    "version": "3.0.2"
+  },
+  "bobelectronics": {
+    "filename": "bobelectronics_3.0.1.zip",
+    "name": "bobelectronics",
+    "size_bytes": 464399,
+    "size_mb": 0.44,
+    "version": "3.0.1"
+  },
+  "bobenemies": {
+    "filename": "bobenemies_3.0.1.zip",
+    "name": "bobenemies",
+    "size_bytes": 1311696,
+    "size_mb": 1.25,
+    "version": "3.0.1"
+  },
+  "bobequipment": {
+    "filename": "bobequipment_3.0.0.zip",
+    "name": "bobequipment",
+    "size_bytes": 1466640,
+    "size_mb": 1.4,
+    "version": "3.0.0"
+  },
+  "bobgreenhouse": {
+    "filename": "bobgreenhouse_3.0.1.zip",
+    "name": "bobgreenhouse",
+    "size_bytes": 299030,
+    "size_mb": 0.29,
+    "version": "3.0.1"
+  },
+  "bobinserters": {
+    "filename": "bobinserters_3.0.0.zip",
+    "name": "bobinserters",
+    "size_bytes": 176199,
+    "size_mb": 0.17,
+    "version": "3.0.0"
+  },
+  "boblibrary": {
+    "filename": "boblibrary_3.0.1.zip",
+    "name": "boblibrary",
+    "size_bytes": 5639535,
+    "size_mb": 5.38,
+    "version": "3.0.1"
+  },
+  "boblogistics": {
+    "filename": "boblogistics_3.0.2.zip",
+    "name": "boblogistics",
+    "size_bytes": 21920972,
+    "size_mb": 20.91,
+    "version": "3.0.2"
+  },
+  "bobmining": {
+    "filename": "bobmining_3.0.2.zip",
+    "name": "bobmining",
+    "size_bytes": 3555698,
+    "size_mb": 3.39,
+    "version": "3.0.2"
+  },
+  "bobmodules": {
+    "filename": "bobmodules_3.0.1.zip",
+    "name": "bobmodules",
+    "size_bytes": 4795935,
+    "size_mb": 4.57,
+    "version": "3.0.1"
+  },
+  "bobores": {
+    "filename": "bobores_3.0.0.zip",
+    "name": "bobores",
+    "size_bytes": 150992,
+    "size_mb": 0.14,
+    "version": "3.0.0"
+  },
+  "bobplates": {
+    "filename": "bobplates_3.0.2.zip",
+    "name": "bobplates",
+    "size_bytes": 7477021,
+    "size_mb": 7.13,
+    "version": "3.0.2"
+  },
+  "bobpower": {
+    "filename": "bobpower_3.0.1.zip",
+    "name": "bobpower",
+    "size_bytes": 3039102,
+    "size_mb": 2.9,
+    "version": "3.0.1"
+  },
+  "bobrevamp": {
+    "filename": "bobrevamp_3.0.1.zip",
+    "name": "bobrevamp",
+    "size_bytes": 289591,
+    "size_mb": 0.28,
+    "version": "3.0.1"
+  },
+  "bobtech": {
+    "filename": "bobtech_3.0.0.zip",
+    "name": "bobtech",
+    "size_bytes": 8218136,
+    "size_mb": 7.84,
+    "version": "3.0.0"
+  },
+  "bobvehicleequipment": {
+    "filename": "bobvehicleequipment_3.0.0.zip",
+    "name": "bobvehicleequipment",
+    "size_bytes": 3584378,
+    "size_mb": 3.42,
+    "version": "3.0.0"
+  },
+  "bobwarfare": {
+    "filename": "bobwarfare_3.0.2.zip",
+    "name": "bobwarfare",
+    "size_bytes": 4501114,
+    "size_mb": 4.29,
+    "version": "3.0.2"
+  },
+  "coal-oil-2-1-ready": {
+    "filename": "coal-oil-2-1-ready_2.1.1.zip",
+    "name": "coal-oil-2-1-ready",
+    "size_bytes": 489144,
+    "size_mb": 0.47,
+    "version": "2.1.1"
+  },
+  "configurable-valves": {
+    "filename": "configurable-valves_2.0.2.zip",
+    "name": "configurable-valves",
+    "size_bytes": 214133,
+    "size_mb": 0.2,
+    "version": "2.0.2"
+  },
+  "dangOreus": {
+    "filename": "dangOreus_2.0.6.zip",
+    "name": "dangOreus",
+    "size_bytes": 72872,
+    "size_mb": 0.07,
+    "version": "2.0.6"
+  },
+  "factorioplus": {
+    "filename": "factorioplus_2.12.2.zip",
+    "name": "factorioplus",
+    "size_bytes": 151056325,
+    "size_mb": 144.06,
+    "version": "2.12.2"
+  },
+  "factorioplus-assets-turrets": {
+    "filename": "factorioplus-assets-turrets_1.0.0.zip",
+    "name": "factorioplus-assets-turrets",
+    "size_bytes": 32573432,
+    "size_mb": 31.06,
+    "version": "1.0.0"
+  },
+  "factorioplus-assets-vehicles": {
+    "filename": "factorioplus-assets-vehicles_1.0.1.zip",
+    "name": "factorioplus-assets-vehicles",
+    "size_bytes": 141645691,
+    "size_mb": 135.08,
+    "version": "1.0.1"
+  },
+  "jetpack": {
+    "filename": "jetpack_0.5.1.zip",
+    "name": "jetpack",
+    "size_bytes": 1014146,
+    "size_mb": 0.97,
+    "version": "0.5.1"
+  },
+  "koboldengineer": {
+    "filename": "koboldengineer_1.0.2.zip",
+    "name": "koboldengineer",
+    "size_bytes": 24774144,
+    "size_mb": 23.63,
+    "version": "1.0.2"
+  },
+  "loaders-modernized": {
+    "filename": "loaders-modernized_2.1.4.zip",
+    "name": "loaders-modernized",
+    "size_bytes": 431759,
+    "size_mb": 0.41,
+    "version": "2.1.4"
+  },
+  "omnilib": {
+    "filename": "omnilib_4.3.4.zip",
+    "name": "omnilib",
+    "size_bytes": 153894,
+    "size_mb": 0.15,
+    "version": "4.3.4"
+  },
+  "omnimatter": {
+    "filename": "omnimatter_4.3.2.zip",
+    "name": "omnimatter",
+    "size_bytes": 23059914,
+    "size_mb": 21.99,
+    "version": "4.3.2"
+  },
+  "omnimatter_science": {
+    "filename": "omnimatter_science_4.3.0.zip",
+    "name": "omnimatter_science",
+    "size_bytes": 92120,
+    "size_mb": 0.09,
+    "version": "4.3.0"
+  },
+  "reskins-angels": {
+    "filename": "reskins-angels_2.4.1.zip",
+    "name": "reskins-angels",
+    "size_bytes": 30166618,
+    "size_mb": 28.77,
+    "version": "2.4.1"
+  },
+  "reskins-assets-assorted": {
+    "filename": "reskins-assets-assorted_2.2.0.zip",
+    "name": "reskins-assets-assorted",
+    "size_bytes": 33840461,
+    "size_mb": 32.27,
+    "version": "2.2.0"
+  },
+  "reskins-assets-bobs": {
+    "filename": "reskins-assets-bobs_2.2.0.zip",
+    "name": "reskins-assets-bobs",
+    "size_bytes": 79985118,
+    "size_mb": 76.28,
+    "version": "2.2.0"
+  },
+  "reskins-bobs": {
+    "filename": "reskins-bobs_2.4.1.zip",
+    "name": "reskins-bobs",
+    "size_bytes": 106516595,
+    "size_mb": 101.58,
+    "version": "2.4.1"
+  },
+  "reskins-library": {
+    "filename": "reskins-library_2.4.2.zip",
+    "name": "reskins-library",
+    "size_bytes": 12438274,
+    "size_mb": 11.86,
+    "version": "2.4.2"
+  },
+  "reskins-sprite-utils": {
+    "filename": "reskins-sprite-utils_0.3.0.zip",
+    "name": "reskins-sprite-utils",
+    "size_bytes": 125522,
+    "size_mb": 0.12,
+    "version": "0.3.0"
+  },
+  "se-space-trains": {
+    "filename": "se-space-trains_1.1.5.zip",
+    "name": "se-space-trains",
+    "size_bytes": 85630802,
+    "size_mb": 81.66,
+    "version": "1.1.5"
+  },
+  "shield-projector": {
+    "filename": "shield-projector_0.3.0.zip",
+    "name": "shield-projector",
+    "size_bytes": 43203748,
+    "size_mb": 41.2,
+    "version": "0.3.0"
+  },
+  "show-max-underground-distance": {
+    "filename": "show-max-underground-distance_0.1.1.zip",
+    "name": "show-max-underground-distance",
+    "size_bytes": 554142,
+    "size_mb": 0.53,
+    "version": "0.1.1"
+  },
+  "space-exploration": {
+    "filename": "space-exploration_0.7.64.zip",
+    "name": "space-exploration",
+    "size_bytes": 3856623,
+    "size_mb": 3.68,
+    "version": "0.7.64"
+  },
+  "space-exploration-graphics": {
+    "filename": "space-exploration-graphics_0.7.7.zip",
+    "name": "space-exploration-graphics",
+    "size_bytes": 50725652,
+    "size_mb": 48.38,
+    "version": "0.7.7"
+  },
+  "space-exploration-graphics-2": {
+    "filename": "space-exploration-graphics-2_0.7.3.zip",
+    "name": "space-exploration-graphics-2",
+    "size_bytes": 48456041,
+    "size_mb": 46.21,
+    "version": "0.7.3"
+  },
+  "space-exploration-graphics-3": {
+    "filename": "space-exploration-graphics-3_0.7.3.zip",
+    "name": "space-exploration-graphics-3",
+    "size_bytes": 41803114,
+    "size_mb": 39.87,
+    "version": "0.7.3"
+  },
+  "space-exploration-graphics-4": {
+    "filename": "space-exploration-graphics-4_0.7.3.zip",
+    "name": "space-exploration-graphics-4",
+    "size_bytes": 52323562,
+    "size_mb": 49.9,
+    "version": "0.7.3"
+  },
+  "space-exploration-graphics-5": {
+    "filename": "space-exploration-graphics-5_0.7.5.zip",
+    "name": "space-exploration-graphics-5",
+    "size_bytes": 151420804,
+    "size_mb": 144.41,
+    "version": "0.7.5"
+  },
+  "space-exploration-jetpack-gui": {
+    "filename": "space-exploration-jetpack-gui_2.0.0.zip",
+    "name": "space-exploration-jetpack-gui",
+    "size_bytes": 13348,
+    "size_mb": 0.01,
+    "version": "2.0.0"
+  },
+  "space-exploration-menu-simulations": {
+    "filename": "space-exploration-menu-simulations_0.7.5.zip",
+    "name": "space-exploration-menu-simulations",
+    "size_bytes": 76132219,
+    "size_mb": 72.61,
+    "version": "0.7.5"
+  },
+  "space-exploration-postprocess": {
+    "filename": "space-exploration-postprocess_0.7.8.zip",
+    "name": "space-exploration-postprocess",
+    "size_bytes": 54342,
+    "size_mb": 0.05,
+    "version": "0.7.8"
+  },
+  "space-exploration-scripts": {
+    "filename": "space-exploration-scripts_2.8.1.zip",
+    "name": "space-exploration-scripts",
+    "size_bytes": 166176,
+    "size_mb": 0.16,
+    "version": "2.8.1"
+  },
+  "spider-mines": {
+    "filename": "spider-mines_0.1.8.zip",
+    "name": "spider-mines",
+    "size_bytes": 501889,
+    "size_mb": 0.48,
+    "version": "0.1.8"
+  },
+  "squeak-through-2": {
+    "filename": "squeak-through-2_0.2.1.zip",
+    "name": "squeak-through-2",
+    "size_bytes": 50423,
+    "size_mb": 0.05,
+    "version": "0.2.1"
+  },
+  "stack-miners-for-bobs": {
+    "filename": "stack-miners-for-bobs_0.1.0.zip",
+    "name": "stack-miners-for-bobs",
+    "size_bytes": 83986,
+    "size_mb": 0.08,
+    "version": "0.1.0"
+  }
+}

@@ -1,0 +1,370 @@
+   0.000 2026-11-07 07:36:32; Factorio 2.1.24 (build 87808, linux64, headless, space-age)
+   0.000 Operating system: Linux
+   0.000 Program arguments: "./bin/x64/factorio" "--create" "/home/z/my-project/factorio/write/saves/load-test.zip" "--mod-directory" "/home/z/my-project/factorio/write/mods" "--config" "/home/z/my-project/factorio/write/config.ini" 
+   0.000 Config path: /home/z/my-project/factorio/write/config.ini
+   0.000 Read data path: /home/z/my-project/factorio/factorio/data
+   0.000 Write data path: /home/z/my-project/factorio/write [5027/10043MB]
+   0.000 Binaries path: /home/z/my-project/factorio/factorio/bin
+   0.011 System info: [CPU: Intel(R) Xeon(R) Processor, 2 cores, RAM: 4041 MB]
+   0.011 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> SDL_VIDEO_DRIVER=<unset> SDL_ENABLE_STEAM_SCREEN_KEYBOARD=<unset> SteamDeck=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.075 Running in headless mode
+   0.075 Audio is disabled
+   0.084 Info ModManager.cpp:455: FeatureFlag: expansion, expansion-shaders, freezing, quality, rail-bridges, segmented-units, space-travel, spoiling
+   0.089 Loading mod settings NapusJaggedOres 2.1.2 (settings.lua)
+   0.090 Loading mod settings squeak-through-2 0.2.1 (settings.lua)
+   0.091 Loading mod settings angelsaddons-cab 2.1.0 (settings.lua)
+   0.091 Loading mod settings bobinserters 3.0.0 (settings.lua)
+   0.091 Loading mod settings boblibrary 3.0.1 (settings.lua)
+   0.091 Loading mod settings configurable-valves 2.0.2 (settings.lua)
+   0.091 Loading mod settings dangOreus 2.0.6 (settings.lua)
+   0.091 Loading mod settings InserterFuelLeech 1.0.6 (settings.lua)
+   0.092 Loading mod settings Peppermint_Mining 2.3.2 (settings.lua)
+   0.092 Loading mod settings PlutoniumEnergy 1.9.2 (settings.lua)
+   0.092 Loading mod settings reskins-sprite-utils 0.3.0 (settings.lua)
+   0.092 Loading mod settings show-max-underground-distance 0.1.1 (settings.lua)
+   0.093 Loading mod settings TerrainEvolution2 1.0.4 (settings.lua)
+   0.093 Loading mod settings auto-train-manager 0.6.0 (settings.lua)
+   0.093 Loading mod settings bobores 3.0.0 (settings.lua)
+   0.094 Loading mod settings StatsGui 1.7.0 (settings.lua)
+   0.094 Loading mod settings StatsGui-HandcraftTimer 0.2.0 (settings.lua)
+   0.094 Loading mod settings StatsGui-MovementSpeed 1.0.7 (settings.lua)
+   0.094 Loading mod settings auto-splitter-block 0.9.2 (settings.lua)
+   0.095 Loading mod settings bobenemies 3.0.1 (settings.lua)
+   0.095 Loading mod settings loaders-modernized 2.1.4 (settings.lua)
+   0.095 Loading mod settings se-space-trains 1.1.5 (settings.lua)
+   0.095 Loading mod settings bobplates 3.0.2 (settings.lua)
+   0.096 Loading mod settings bobassembly 3.0.2 (settings.lua)
+   0.096 Loading mod settings bobelectronics 3.0.1 (settings.lua)
+   0.096 Loading mod settings boblogistics 3.0.2 (settings.lua)
+   0.096 Loading mod settings bobmining 3.0.2 (settings.lua)
+   0.097 Loading mod settings bobpower 3.0.1 (settings.lua)
+   0.097 Loading mod settings bobrevamp 3.0.1 (settings.lua)
+   0.097 Loading mod settings bobtech 3.0.0 (settings.lua)
+   0.097 Loading mod settings bobwarfare 3.0.2 (settings.lua)
+   0.098 Loading mod settings bobclasses 3.0.2 (settings.lua)
+   0.098 Loading mod settings bobmodules 3.0.1 (settings.lua)
+   0.098 Loading mod settings bobvehicleequipment 3.0.0 (settings.lua)
+   0.099 Loading mod settings angelsrefining 2.1.3 (settings.lua)
+   0.099 Loading mod settings angelsaddons-mobility 2.1.1 (settings.lua)
+   0.099 Loading mod settings angelsinfiniteores 2.1.0 (settings.lua)
+   0.100 Loading mod settings angelspetrochem 2.1.3 (settings.lua)
+   0.100 Loading mod settings omnilib 4.3.4 (settings.lua)
+   0.100 Loading mod settings angelsaddons-storage 2.1.1 (settings.lua)
+   0.101 Loading mod settings reskins-library 2.4.2 (settings.lua)
+   0.102 Loading mod settings angelsbioprocessing 2.1.2 (settings.lua)
+   0.103 Loading mod settings omnimatter 4.3.2 (settings.lua)
+   0.103 Loading mod settings reskins-bobs 2.4.1 (settings.lua)
+   0.104 Loading mod settings omnimatter_science 4.3.0 (settings.lua)
+   0.104 Loading mod settings reskins-angels 2.4.1 (settings.lua)
+   0.105 Loading mod settings bobenemies 3.0.1 (settings-updates.lua)
+   0.105 Loading mod settings loaders-modernized 2.1.4 (settings-updates.lua)
+   0.105 Loading mod settings bobplates 3.0.2 (settings-updates.lua)
+   0.106 Loading mod settings boblogistics 3.0.2 (settings-updates.lua)
+   0.106 Loading mod settings angelsrefining 2.1.3 (settings-updates.lua)
+   0.107 Loading mod settings angelsaddons-mobility 2.1.1 (settings-updates.lua)
+   0.107 Loading mod settings angelspetrochem 2.1.3 (settings-updates.lua)
+   0.108 Loading mod settings omnilib 4.3.4 (settings-updates.lua)
+   0.108 Loading mod settings angelsaddons-storage 2.1.1 (settings-updates.lua)
+   0.108 Loading mod settings angelssmelting 2.1.1 (settings-updates.lua)
+   0.109 Loading mod settings reskins-library 2.4.2 (settings-updates.lua)
+   0.109 Loading mod settings angelsbioprocessing 2.1.2 (settings-updates.lua)
+   0.109 Loading mod settings omnimatter 4.3.2 (settings-updates.lua)
+   0.110 Loading mod settings reskins-bobs 2.4.1 (settings-updates.lua)
+   0.110 Loading mod settings reskins-angels 2.4.1 (settings-updates.lua)
+   0.111 Loading mod settings reskins-library 2.4.2 (settings-final-fixes.lua)
+   0.117 Loading mod core 0.0.0 (data.lua)
+   0.135 Loading mod base 2.1.24 (data.lua)
+   0.380 Loading mod NapusJaggedOres 2.1.2 (data.lua)
+   0.394 Loading mod angelsaddons-cab 2.1.0 (data.lua)
+   0.408 Loading mod birdengineer 1.0.2 (data.lua)
+   0.422 Loading mod bobinserters 3.0.0 (data.lua)
+   0.435 Loading mod boblibrary 3.0.1 (data.lua)
+   0.452 Loading mod configurable-valves 2.0.2 (data.lua)
+   0.477 Loading mod elevated-rails 2.1.24 (data.lua)
+   0.514 Loading mod flib 0.17.2 (data.lua)
+   0.529 Loading mod koboldengineer 1.0.2 (data.lua)
+   0.543 Loading mod Peppermint_Mining 2.3.2 (data.lua)
+   0.557 Loading mod PlutoniumEnergy 1.9.2 (data.lua)
+   0.583 Loading mod recycler 2.1.24 (data.lua)
+   0.605 Loading mod TerrainEvolution2 1.0.4 (data.lua)
+   0.619 Loading mod zai-spidertron-miner 1.0.0 (data.lua)
+   0.637 Loading mod auto-train-manager 0.6.0 (data.lua)
+   0.652 Loading mod bobores 3.0.0 (data.lua)
+   0.680 Loading mod quality 2.1.24 (data.lua)
+   0.698 Loading mod StatsGui 1.7.0 (data.lua)
+   0.712 Loading mod space-age 2.1.24 (data.lua)
+   1.192 Loading mod bobenemies 3.0.1 (data.lua)
+   1.298 Loading mod coal-oil-2-1-ready 2.1.1 (data.lua)
+   1.336 Loading mod Electronic_Locomotives 4.1.0 (data.lua)
+   1.390 Loading mod loaders-modernized 2.1.4 (data.lua)
+   1.439 Loading mod se-space-trains 1.1.5 (data.lua)
+   1.493 Loading mod bobplates 3.0.2 (data.lua)
+   1.543 Loading mod bobassembly 3.0.2 (data.lua)
+   1.600 Loading mod bobelectronics 3.0.1 (data.lua)
+   1.641 Loading mod bobgreenhouse 3.0.1 (data.lua)
+   1.699 Loading mod boblogistics 3.0.2 (data.lua)
+   1.760 Loading mod bobmining 3.0.2 (data.lua)
+   1.825 Loading mod bobpower 3.0.1 (data.lua)
+   1.895 Loading mod bobrevamp 3.0.1 (data.lua)
+   1.941 Loading mod bobtech 3.0.0 (data.lua)
+   2.003 Loading mod bobwarfare 3.0.2 (data.lua)
+   2.081 Loading mod bobclasses 3.0.2 (data.lua)
+   2.135 Loading mod bobequipment 3.0.0 (data.lua)
+   2.199 Loading mod bobmodules 3.0.1 (data.lua)
+   2.249 Loading mod bobvehicleequipment 3.0.0 (data.lua)
+   2.316 Loading mod angelsrefining 2.1.3 (data.lua)
+   2.403 Loading mod angelsaddons-bots 2.1.0 (data.lua)
+   2.456 Loading mod angelsaddons-mobility 2.1.1 (data.lua)
+   2.547 Loading mod angelsinfiniteores 2.1.0 (data.lua)
+   2.613 Loading mod angelspetrochem 2.1.3 (data.lua)
+   2.708 Loading mod omnilib 4.3.4 (data.lua)
+   2.792 Loading mod angelsaddons-storage 2.1.1 (data.lua)
+   2.863 Loading mod angelssmelting 2.1.1 (data.lua)
+   3.000 Loading mod reskins-library 2.4.2 (data.lua)
+   3.087 Loading mod angelsbioprocessing 2.1.2 (data.lua)
+   3.175 Loading mod omnimatter 4.3.2 (data.lua)
+   3.264 Loading mod reskins-bobs 2.4.1 (data.lua)
+   3.849 Loading mod zai-compat-fixes 1.0.0 (data.lua)
+   3.942 Loading mod omnimatter_science 4.3.0 (data.lua)
+   4.035 Loading mod reskins-angels 2.4.1 (data.lua)
+   4.504 Loading mod base 2.1.24 (data-updates.lua)
+   4.633 Loading mod NapusJaggedOres 2.1.2 (data-updates.lua)
+   4.747 Loading mod angelsaddons-cab 2.1.0 (data-updates.lua)
+   4.860 Loading mod bobinserters 3.0.0 (data-updates.lua)
+   5.019 Loading mod configurable-valves 2.0.2 (data-updates.lua)
+   5.136 Loading mod dangOreus 2.0.6 (data-updates.lua)
+   5.140 Script @__dangOreus__/data-updates.lua:20: Updating autoplace for crude-oil
+   5.140 Script @__dangOreus__/data-updates.lua:20: Updating autoplace for sulfuric-acid-geyser
+   5.140 Script @__dangOreus__/data-updates.lua:20: Updating autoplace for lithium-brine
+   5.140 Script @__dangOreus__/data-updates.lua:20: Updating autoplace for fluorine-vent
+   5.140 Script @__dangOreus__/data-updates.lua:20: Updating autoplace for angels-natural-gas
+   5.250 Loading mod Peppermint_Mining 2.3.2 (data-updates.lua)
+   5.386 Loading mod PlutoniumEnergy 1.9.2 (data-updates.lua)
+   5.511 Loading mod recycler 2.1.24 (data-updates.lua)
+   5.724 Loading mod TerrainEvolution2 1.0.4 (data-updates.lua)
+   5.853 Loading mod bobores 3.0.0 (data-updates.lua)
+   6.010 Loading mod quality 2.1.24 (data-updates.lua)
+   6.135 Loading mod space-age 2.1.24 (data-updates.lua)
+   6.258 Loading mod bobenemies 3.0.1 (data-updates.lua)
+   6.419 Loading mod Electronic_Locomotives 4.1.0 (data-updates.lua)
+   6.549 Loading mod loaders-modernized 2.1.4 (data-updates.lua)
+   6.707 Loading mod se-space-trains 1.1.5 (data-updates.lua)
+   6.838 Loading mod bobplates 3.0.2 (data-updates.lua)
+   7.009 Loading mod bobassembly 3.0.2 (data-updates.lua)
+   7.136 Loading mod bobelectronics 3.0.1 (data-updates.lua)
+   7.281 Loading mod bobgreenhouse 3.0.1 (data-updates.lua)
+   7.416 Loading mod boblogistics 3.0.2 (data-updates.lua)
+   7.554 Loading mod bobmining 3.0.2 (data-updates.lua)
+   7.709 Loading mod bobpower 3.0.1 (data-updates.lua)
+   7.835 Loading mod bobrevamp 3.0.1 (data-updates.lua)
+   7.956 Loading mod bobtech 3.0.0 (data-updates.lua)
+   8.102 Loading mod bobwarfare 3.0.2 (data-updates.lua)
+   8.227 Loading mod bobclasses 3.0.2 (data-updates.lua)
+   8.357 Loading mod bobequipment 3.0.0 (data-updates.lua)
+   8.508 Loading mod bobmodules 3.0.1 (data-updates.lua)
+   8.633 Loading mod bobvehicleequipment 3.0.0 (data-updates.lua)
+   8.757 Loading mod angelsrefining 2.1.3 (data-updates.lua)
+   8.954 Loading mod angelsaddons-bots 2.1.0 (data-updates.lua)
+   9.095 Loading mod angelsaddons-mobility 2.1.1 (data-updates.lua)
+   9.222 Loading mod angelsinfiniteores 2.1.0 (data-updates.lua)
+   9.346 Loading mod angelspetrochem 2.1.3 (data-updates.lua)
+   9.515 Loading mod omnilib 4.3.4 (data-updates.lua)
+   9.630 Loading mod angelsaddons-storage 2.1.1 (data-updates.lua)
+   9.812 Loading mod angelssmelting 2.1.1 (data-updates.lua)
+  10.000 Loading mod reskins-library 2.4.2 (data-updates.lua)
+  10.118 Loading mod angelsbioprocessing 2.1.2 (data-updates.lua)
+  10.308 Loading mod angelsqualitysmelting 2.1.1 (data-updates.lua)
+  10.425 Loading mod omnimatter 4.3.2 (data-updates.lua)
+  10.609 Loading mod reskins-bobs 2.4.1 (data-updates.lua)
+  10.749 Loading mod zai-compat-fixes 1.0.0 (data-updates.lua)
+  10.900 Loading mod omnimatter_science 4.3.0 (data-updates.lua)
+  11.017 Loading mod reskins-angels 2.4.1 (data-updates.lua)
+  11.177 Loading mod squeak-through-2 0.2.1 (data-final-fixes.lua)
+  11.303 Loading mod birdengineer 1.0.2 (data-final-fixes.lua)
+  11.429 Loading mod bobinserters 3.0.0 (data-final-fixes.lua)
+  11.554 Loading mod boblibrary 3.0.1 (data-final-fixes.lua)
+  11.555 Script @__boblibrary__/recipe-functions.lua:310: Running recipe ingredients cleanup...
+  11.721 Loading mod InserterFuelLeech 1.0.6 (data-final-fixes.lua)
+  11.842 Loading mod koboldengineer 1.0.2 (data-final-fixes.lua)
+  11.989 Loading mod PlutoniumEnergy 1.9.2 (data-final-fixes.lua)
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:1: Tweaking productivity restrictions
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `advanced-nuclear-fuel-reprocessing`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `MOX-fuel-cell`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:44: Warning: recipe `MOX-fuel-cell-reprocessing` not found
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `plutonium-fuel-cell`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `plutonium-fuel-cell-reprocessing`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `plutonium-fuel`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `breeder-fuel-cell-reprocessing`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `uranium-fuel-cell-waste-solution-centrifuging`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `breeder-fuel-cell-waste-solution-centrifuging`
+  11.990 Script @__PlutoniumEnergy__/compat/productivity.lua:41: Skipping recipe with `allow_productivity` already set: `breeder-fuel-cell`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:1: Tweaking item and recipe subgroups
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:18: Adding subgroup `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:18: Adding subgroup `nuclear-plutonium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:18: Adding subgroup `nuclear-breeding`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of item named `uranium-fuel-cell` with `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of recipe named `uranium-fuel-cell` with `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of recipe named `nuclear-fuel-reprocessing` with `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of recipe named `plutonium-fuel` with `angels-petrochem-fuel`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of recipe named `advanced-nuclear-fuel-reprocessing` with `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of recipe named `advanced-nuclear-fuel-reprocessing-with-barrelling` with `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of recipe named `uranium-fuel-cell-waste-solution-centrifuging` with `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of item named `plutonium-fuel` with `angels-petrochem-fuel`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of item named `depleted-uranium-fuel-cell` with `nuclear-uranium`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of item named `plutonium-239` with `angels-power-nuclear-processing`
+  11.990 Script @__PlutoniumEnergy__/compat/prototype-subgroup.lua:84: Replacing subgroup of item named `plutonium-238` with `angels-power-nuclear-processing`
+  12.107 Loading mod show-max-underground-distance 0.1.1 (data-final-fixes.lua)
+  12.225 Loading mod auto-splitter-block 0.9.2 (data-final-fixes.lua)
+  12.340 Loading mod coal-oil-2-1-ready 2.1.1 (data-final-fixes.lua)
+  12.483 Loading mod Electronic_Locomotives 4.1.0 (data-final-fixes.lua)
+  12.606 Loading mod loaders-modernized 2.1.4 (data-final-fixes.lua)
+  12.733 Loading mod bobplates 3.0.2 (data-final-fixes.lua)
+  12.851 Loading mod bobassembly 3.0.2 (data-final-fixes.lua)
+  12.991 Loading mod bobelectronics 3.0.1 (data-final-fixes.lua)
+  13.103 Loading mod boblogistics 3.0.2 (data-final-fixes.lua)
+  13.223 Loading mod bobtech 3.0.0 (data-final-fixes.lua)
+  13.339 Loading mod bobwarfare 3.0.2 (data-final-fixes.lua)
+  13.453 Loading mod bobclasses 3.0.2 (data-final-fixes.lua)
+  13.595 Loading mod stack-miners-for-bobs 0.1.0 (data-final-fixes.lua)
+  13.712 Loading mod angelsrefining 2.1.3 (data-final-fixes.lua)
+  13.832 Loading mod angelsaddons-mobility 2.1.1 (data-final-fixes.lua)
+  13.946 Loading mod angelspetrochem 2.1.3 (data-final-fixes.lua)
+  14.113 Loading mod omnilib 4.3.4 (data-final-fixes.lua)
+  14.223 Loading mod angelssmelting 2.1.1 (data-final-fixes.lua)
+  14.346 Loading mod reskins-library 2.4.2 (data-final-fixes.lua)
+  14.480 Loading mod omnimatter 4.3.2 (data-final-fixes.lua)
+  15.696 Script @__omnimatter__/prototypes/generation/autoplace-removal.lua:12: Excluded rocks from category simple-entity
+  15.697 Script @__omnimatter__/prototypes/generation/autoplace-removal.lua:12: Excluded enemy-base from category turret
+  15.698 Script @__omnimatter__/prototypes/generation/autoplace-removal.lua:12: Excluded gleba_enemy_base from category unit-spawner
+  15.698 Script @__omnimatter__/prototypes/generation/autoplace-removal.lua:12: Excluded trees from category tree
+  15.698 Script @__omnimatter__/prototypes/generation/autoplace-removal.lua:12: Excluded gleba_plants from category tree
+  15.822 Loading mod reskins-bobs 2.4.1 (data-final-fixes.lua)
+  15.942 Loading mod zai-compat-fixes 1.0.0 (data-final-fixes.lua)
+  15.956 Script @__zai-compat-fixes__/data-final-fixes.lua:18: [zai-compat-fixes] restore_string_icons: fixed 460 prototypes
+  15.957 Script @__zai-compat-fixes__/data-final-fixes.lua:18: [zai-compat-fixes] kill_chain: omnimatter still loaded — disabling recipes/techs
+  15.960 Script @__zai-compat-fixes__/data-final-fixes.lua:18: [zai-compat-fixes] kill_chain: omnilib still loaded — disabling recipes/techs
+  15.962 Script @__zai-compat-fixes__/data-final-fixes.lua:18: [zai-compat-fixes] kill_chain: NapusJaggedOres still loaded — disabling recipes/techs
+  15.966 Script @__zai-compat-fixes__/data-final-fixes.lua:18: [zai-compat-fixes] kill_chain: dangOreus still loaded — disabling recipes/techs
+  15.980 Script @__zai-compat-fixes__/data-final-fixes.lua:18: [zai-compat-fixes] migrate_recipe_categories: migrated 3 recipes
+  15.980 Script @__zai-compat-fixes__/data-final-fixes.lua:18: [zai-compat-fixes] data-final-fixes applied
+  16.095 Loading mod omnimatter_science 4.3.0 (data-final-fixes.lua)
+  16.096 Script @__omnimatter_science__/prototypes/functions.lua:260: Updating technology costs.
+  17.426 Loading mod reskins-angels 2.4.1 (data-final-fixes.lua)
+  17.856 Checksum for core: 3668028660
+  17.856 Checksum of angelsaddons-mobility-graphics-crawler: 0
+  17.856 Checksum of angelsaddons-mobility-graphics-petro: 0
+  17.856 Checksum of angelsaddons-mobility-graphics-smelting: 0
+  17.856 Checksum of angelsbioprocessinggraphics: 0
+  17.856 Checksum of angelspetrochemgraphics: 0
+  17.856 Checksum of angelsrefininggraphics: 0
+  17.856 Checksum of angelssmeltinggraphics: 0
+  17.856 Checksum of base: 3864816957
+  17.856 Checksum of NapusJaggedOres: 558602175
+  17.856 Checksum of reskins-assets-assorted: 0
+  17.856 Checksum of reskins-assets-bobs: 0
+  17.856 Checksum of squeak-through-2: 1282652019
+  17.856 Checksum of angelsaddons-cab: 9864344
+  17.856 Checksum of birdengineer: 401771364
+  17.856 Checksum of bobinserters: 3684174014
+  17.856 Checksum of boblibrary: 4196401178
+  17.856 Checksum of configurable-valves: 197887195
+  17.856 Checksum of dangOreus: 3078976603
+  17.856 Checksum of elevated-rails: 1429039930
+  17.856 Checksum of flib: 3410458141
+  17.856 Checksum of InserterFuelLeech: 3502220714
+  17.856 Checksum of koboldengineer: 1322360272
+  17.856 Checksum of Peppermint_Mining: 3750401625
+  17.856 Checksum of PlutoniumEnergy: 929198311
+  17.856 Checksum of recycler: 3293728126
+  17.856 Checksum of reskins-sprite-utils: 1176457220
+  17.856 Checksum of show-max-underground-distance: 4097702189
+  17.856 Checksum of TerrainEvolution2: 1495249153
+  17.856 Checksum of zai-spidertron-miner: 753931333
+  17.856 Checksum of auto-train-manager: 914495987
+  17.856 Checksum of bobores: 1415080451
+  17.856 Checksum of quality: 4220722184
+  17.856 Checksum of StatsGui: 4033436165
+  17.856 Checksum of space-age: 3636981730
+  17.856 Checksum of StatsGui-HandcraftTimer: 561793622
+  17.856 Checksum of StatsGui-MovementSpeed: 2001722381
+  17.856 Checksum of auto-splitter-block: 950832301
+  17.856 Checksum of bobenemies: 1456907209
+  17.856 Checksum of coal-oil-2-1-ready: 1305844899
+  17.856 Checksum of Electronic_Locomotives: 2752751745
+  17.856 Checksum of loaders-modernized: 3041720842
+  17.856 Checksum of se-space-trains: 4179240535
+  17.856 Checksum of bobplates: 1592698106
+  17.856 Checksum of bobassembly: 1023979791
+  17.856 Checksum of bobelectronics: 3008731816
+  17.856 Checksum of bobgreenhouse: 1115211692
+  17.856 Checksum of boblogistics: 4162476841
+  17.856 Checksum of bobmining: 3730150413
+  17.856 Checksum of bobpower: 1200669040
+  17.856 Checksum of bobrevamp: 460603157
+  17.856 Checksum of bobtech: 1280285343
+  17.856 Checksum of bobwarfare: 4244245451
+  17.856 Checksum of bobclasses: 2291884361
+  17.856 Checksum of bobequipment: 3142046642
+  17.856 Checksum of bobmodules: 812424687
+  17.856 Checksum of bobvehicleequipment: 2286502927
+  17.856 Checksum of stack-miners-for-bobs: 849882413
+  17.856 Checksum of angelsrefining: 283434124
+  17.856 Checksum of angelsaddons-bots: 2560875156
+  17.856 Checksum of angelsaddons-mobility: 1070138328
+  17.856 Checksum of angelsinfiniteores: 3459867760
+  17.856 Checksum of angelspetrochem: 765861279
+  17.856 Checksum of omnilib: 3792027308
+  17.856 Checksum of angelsaddons-storage: 3295786804
+  17.856 Checksum of angelssmelting: 1745455131
+  17.856 Checksum of reskins-library: 2623105174
+  17.856 Checksum of angelsbioprocessing: 3666092757
+  17.856 Checksum of angelsqualitysmelting: 210593662
+  17.856 Checksum of omnimatter: 2874259473
+  17.856 Checksum of reskins-bobs: 840605235
+  17.856 Checksum of zai-compat-fixes: 2357864817
+  17.856 Checksum of zai-ru-patches: 0
+  17.856 Checksum of omnimatter_science: 3611790507
+  17.857 Checksum of reskins-angels: 1243623422
+  19.066 Prototype list checksum: 903862680
+  19.591 Info PlayerData.cpp:582: Local player-data.json unavailable
+  19.597 Info GlobalContext.cpp:1347: Resetting config.
+  19.598 Factorio initialised
+  19.598 Info Create.cpp:32: Creating new map /home/z/my-project/factorio/write/saves/load-test.zip
+  19.648 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+  22.884 Loading level.dat: 1647572 bytes.
+  22.884 Info Scenario.cpp:152: Map version 2.1.24-1
+  22.920 Blueprint storage "blueprint-storage-2.dat" was not found, trying to load previous version storage "blueprint-storage.dat"
+  22.926 Checksum for script __level__/control.lua: 2385776952
+  22.927 Checksum for script __NapusJaggedOres__/control.lua: 508524016
+  22.929 Checksum for script __angelsaddons-cab__/control.lua: 1072113939
+  22.932 Checksum for script __bobinserters__/control.lua: 3407440666
+  22.934 Checksum for script __configurable-valves__/control.lua: 2403404381
+  22.936 Checksum for script __dangOreus__/control.lua: 1088321082
+  22.943 Checksum for script __InserterFuelLeech__/control.lua: 2302811563
+  22.946 Checksum for script __Peppermint_Mining__/control.lua: 3565103915
+  22.947 Checksum for script __PlutoniumEnergy__/control.lua: 519632597
+  22.949 Checksum for script __TerrainEvolution2__/control.lua: 579777214
+  22.951 Checksum for script __zai-spidertron-miner__/control.lua: 1629731456
+  22.957 Checksum for script __auto-train-manager__/control.lua: 3338358963
+  22.958 Checksum for script __bobores__/control.lua: 3782704031
+  22.960 Checksum for script __StatsGui__/control.lua: 4077359618
+  22.961 Checksum for script __StatsGui-HandcraftTimer__/control.lua: 776804220
+  22.963 Checksum for script __StatsGui-MovementSpeed__/control.lua: 3530237669
+  22.964 Checksum for script __auto-splitter-block__/control.lua: 2491610313
+  22.967 Checksum for script __bobenemies__/control.lua: 4203569557
+  22.969 Checksum for script __Electronic_Locomotives__/control.lua: 1326530238
+  22.973 Checksum for script __loaders-modernized__/control.lua: 1701296490
+  22.974 Checksum for script __bobplates__/control.lua: 2943813389
+  22.975 Checksum for script __bobelectronics__/control.lua: 101682827
+  22.976 Checksum for script __boblogistics__/control.lua: 2849198677
+  22.977 Checksum for script __bobtech__/control.lua: 2913293256
+  22.980 Checksum for script __bobclasses__/control.lua: 3283544198
+  22.981 Checksum for script __bobmodules__/control.lua: 3095389369
+  22.983 Checksum for script __angelsrefining__/control.lua: 3294385614
+  22.984 Checksum for script __angelsaddons-mobility__/control.lua: 817102285
+  22.986 Checksum for script __omnilib__/control.lua: 2781120008
+  22.987 Checksum for script __reskins-library__/control.lua: 862793155
+  22.988 Checksum for script __omnimatter__/control.lua: 2011404117
+  22.989 Checksum for script __omnimatter_science__/control.lua: 2072262320
+Done.
+  23.361 Goodbye

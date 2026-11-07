@@ -1,0 +1,16 @@
+# Binary downloads (large)
+*.zip
+!pack_src/**/*.zip
+
+# Factorio headless install
+factorio/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
