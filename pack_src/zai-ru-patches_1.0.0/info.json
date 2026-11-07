@@ -1,0 +1,21 @@
+{
+  "name": "zai-ru-patches",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "ZAI Pack: русификация",
+  "title_original": "ZAI Pack: Russian localization patches",
+  "author": "zai-pack",
+  "contact": "",
+  "homepage": "",
+  "description": "Патч-слой русификации для модпака zai-pack. Содержит русские переводы строк, отсутствующие в оригинальных локалях модов. Загружается после всех модов пакета.",
+  "dependencies": [
+    "base >= 2.1.0",
+    "? space-exploration >= 0.7.64",
+    "? angelsrefining >= 2.1.3",
+    "? angelssmelting >= 2.1.1",
+    "? boblibrary >= 3.0.1",
+    "? factorioplus >= 2.12.2",
+    "? loaders-modernized >= 2.1.4",
+    "? TerrainEvolution2 >= 1.0.4"
+  ]
+}

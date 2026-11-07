@@ -1,0 +1,9 @@
+*.zip
+!pack_src/**/*.zip
+factorio/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.swp
+.DS_Store

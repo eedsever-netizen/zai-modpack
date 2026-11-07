@@ -1,0 +1,21 @@
+{
+  "name": "zai-compat-fixes",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "ZAI Pack: compat fixes",
+  "title_original": "ZAI Pack: compat fixes",
+  "author": "zai-pack",
+  "contact": "",
+  "homepage": "",
+  "description": "Слой совместимости модпака zai-pack: чистка DLC-категории metallurgy → smelting (для работы без Space Age), интеграция TE2+Alien Biomes, рудная политика Наувиса (без буровых), дедупликация рецептов (кварцевое/песчаное стекло), исключение омни-рудных цепочек, миграция recipe.category → categories для Factorio 2.1.",
+  "dependencies": [
+    "base >= 2.1.0",
+    "? space-exploration >= 0.7.64",
+    "? angelsrefining >= 2.1.3",
+    "? angelssmelting >= 2.1.1",
+    "? angelspetrochem >= 2.1.3",
+    "? TerrainEvolution2 >= 1.0.4",
+    "? alien-biomes >= 0.8.0",
+    "? factorioplus >= 2.12.2"
+  ]
+}

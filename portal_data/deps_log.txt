@@ -1,0 +1,10 @@
+[DEP] flib v0.17.0 (fv=2.1) — OK (390193 байт)
+[DEP] informatron v0.5.0 (fv=2.1) — OK (129277 байт)
+[DEP] gizmod v1.0.12 (fv=2.1) — OK (6147009 байт)
+[DEP] aai-containers v0.4.0 (fv=2.1) — OK (924546 байт)
+[DEP] aai-signal-transmission v0.6.0 (fv=2.1) — OK (17805470 байт)
+[DEP] alien-biomes v0.8.0 (fv=2.1) — OK (611334 байт)
+[DEP] alien-biomes-graphics v0.8.0 (fv=2.1) — OK (197598252 байт)
+[DEP] robot_attrition v0.7.0 (fv=2.1) — OK (208674 байт)
+
+=== DEPS ИТОГ: ok=8 failed=0 not_found=0 ===

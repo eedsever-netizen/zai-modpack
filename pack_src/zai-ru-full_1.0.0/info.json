@@ -1,0 +1,15 @@
+{
+  "name": "zai-ru-full",
+  "version": "1.0.0",
+  "factorio_version": "2.1",
+  "title": "ZAI Pack: полная русификация",
+  "title_original": "ZAI Pack: Full Russian Localization",
+  "author": "zai-pack",
+  "contact": "",
+  "homepage": "https://github.com/eedsever-netizen/zai-modpack",
+  "description": "Полная русификация 28 непереведённых модов модпака zai-pack: Angel's (petrochem, smelting, bioprocessing, infiniteores, addons-bots/cab/mobility/storage), gizmod, auto-train-manager, InserterFuelLeech, omnimatter_science, NapusJaggedOres, Electronic_Locomotives, dangOreus, spider-mines, auto-splitter-block, StatsGui-HandcraftTimer/MovementSpeed, Peppermint_Mining, coal-oil-2-1-ready, show-max-underground-distance, birdengineer, koboldengineer, reskins-sprite-utils/assets-assorted/assets-bobs, space-exploration-jetpack-gui. 1788 из 2076 строк переведено автоматически по словарю терминов Factorio.",
+  "dependencies": [
+    "base >= 2.1.0",
+    "? zai-compat-fixes >= 1.0.0"
+  ]
+}

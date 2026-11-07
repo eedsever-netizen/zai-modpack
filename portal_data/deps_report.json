@@ -1,0 +1,88 @@
+{
+  "total_requested": 8,
+  "ok": 8,
+  "failed": 0,
+  "not_found": 0,
+  "results": [
+    {
+      "name": "flib",
+      "status": "ok",
+      "detail": null,
+      "version": "0.17.0",
+      "filename": "flib_0.17.0.zip",
+      "sha1": "d15ade7d8a7608fa0ecd56dcbc5fcc22fe30ee0e",
+      "size_bytes": 390193,
+      "factorio_version": "2.1"
+    },
+    {
+      "name": "informatron",
+      "status": "ok",
+      "detail": null,
+      "version": "0.5.0",
+      "filename": "informatron_0.5.0.zip",
+      "sha1": "70f8f81ae83f2360626d94e03db4b13db6d93b23",
+      "size_bytes": 129277,
+      "factorio_version": "2.1"
+    },
+    {
+      "name": "gizmod",
+      "status": "ok",
+      "detail": null,
+      "version": "1.0.12",
+      "filename": "gizmod_1.0.12.zip",
+      "sha1": "46a5ea41eb026f149b28a9660cbd030fa63c0118",
+      "size_bytes": 6147009,
+      "factorio_version": "2.1"
+    },
+    {
+      "name": "aai-containers",
+      "status": "ok",
+      "detail": null,
+      "version": "0.4.0",
+      "filename": "aai-containers_0.4.0.zip",
+      "sha1": "61add69db9376ee603ebd5226083b7c10ef5ebe5",
+      "size_bytes": 924546,
+      "factorio_version": "2.1"
+    },
+    {
+      "name": "aai-signal-transmission",
+      "status": "ok",
+      "detail": null,
+      "version": "0.6.0",
+      "filename": "aai-signal-transmission_0.6.0.zip",
+      "sha1": "c6606a442a66d77eab8c8341a0e84a6c63b50197",
+      "size_bytes": 17805470,
+      "factorio_version": "2.1"
+    },
+    {
+      "name": "alien-biomes",
+      "status": "ok",
+      "detail": null,
+      "version": "0.8.0",
+      "filename": "alien-biomes_0.8.0.zip",
+      "sha1": "2d28415ca54b129a8c000a8d1de7bf16b2773185",
+      "size_bytes": 611334,
+      "factorio_version": "2.1"
+    },
+    {
+      "name": "alien-biomes-graphics",
+      "status": "ok",
+      "detail": null,
+      "version": "0.8.0",
+      "filename": "alien-biomes-graphics_0.8.0.zip",
+      "sha1": "8ddfa5a980413e0c8dac6155905b0693fd5a48b8",
+      "size_bytes": 197598252,
+      "factorio_version": "2.1"
+    },
+    {
+      "name": "robot_attrition",
+      "status": "ok",
+      "detail": null,
+      "version": "0.7.0",
+      "filename": "robot_attrition_0.7.0.zip",
+      "sha1": "137863c84a45d76c562ea7a8b1a13d6c5d477f0c",
+      "size_bytes": 208674,
+      "factorio_version": "2.1"
+    }
+  ]
+}
