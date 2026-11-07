@@ -102,7 +102,9 @@ local function mine_resource_to_car(car, resource)
   for _, r in ipairs(results) do
     trunk.insert({ name = r.name, count = r.count })
   end
-  car.surface.play_sound({ path = "mining-ore", position = car.position })
+  -- Звук не вызываем: в base 2.1.24 нет prototype "mining-ore",
+  -- вызов несуществующего звука вызывает crash. В будущей версии
+  -- можно добавить через data:extend новый sound prototype.
   return true
 end
 
@@ -239,10 +241,13 @@ end)
 script.on_event("zai-stm-link-chest", function(event)
   local player = game.get_player(event.player_index)
   if not player then return end
-  local car = player.selected
-  if not is_stm_car(car) then car = player.vehicle end
+  -- Логика chest-link: ИГРОК ДОЛЖЕН СИДЕТЬ В паукотрон-рудокопе
+  -- и навести курсор на сундук. Тогда:
+  --   car = player.vehicle (машина в которой сидит)
+  --   chest = player.selected (сундук под курсором)
+  local car = player.vehicle
   if not is_stm_car(car) then
-    player.print({"zai-stm.no-car-under-cursor"}); return
+    player.print({"zai-stm.must-sit-in-car-for-chest"}); return
   end
   local chest = find_chest_under_cursor(player)
   if not chest then

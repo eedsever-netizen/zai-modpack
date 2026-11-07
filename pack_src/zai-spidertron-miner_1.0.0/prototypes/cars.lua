@@ -82,17 +82,17 @@ end
 
 local cars = {
   make_car("t1", {
-    tint = TINT_T1, health = 150, weight = 600, braking = 80,
+    tint = TINT_T1, health = 150, weight = 600, braking = 1500,
     friction = 0.018, effectivity = 0.45, inventory_size = 30,
     grid = "zai-stm-grid-t1", energy = "burner", fuel_emissions = 8,
   }),
   make_car("t2", {
-    tint = TINT_T2, health = 350, weight = 900, braking = 140,
+    tint = TINT_T2, health = 350, weight = 900, braking = 2800,
     friction = 0.015, effectivity = 0.65, inventory_size = 50,
     grid = "zai-stm-grid-t2", energy = "burner", fuel_emissions = 5,
   }),
   make_car("t3", {
-    tint = TINT_T3, health = 600, weight = 1200, braking = 200,
+    tint = TINT_T3, health = 600, weight = 1200, braking = 4500,
     friction = 0.012, effectivity = 0.85, inventory_size = 80,
     grid = "zai-stm-grid-t3", energy = "burner", fuel_emissions = 1,
   }),
